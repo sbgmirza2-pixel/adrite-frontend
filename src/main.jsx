@@ -1,6 +1,7 @@
 import React from 'react';
+import { Provider } from 'react-redux';
 import ReactDOM from 'react-dom/client';
-import { Provider } from "react-redux"; // Redux connect karne ke liye
+
 import { store } from "./store"; // Aapka banaya hua store
 import App from './App.jsx';
 import './index.css'; // Tailwind aur basic CSS
