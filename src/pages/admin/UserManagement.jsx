@@ -147,7 +147,7 @@ const UserManagement = () => {
                   onClick={() => setIsModalOpen(false)}
                   className="flex-1 bg-slate-800 text-slate-400 p-4 rounded-[12px] font-bold hover:bg-slate-700 transition-all"
                 >
-                  Cancel
+                  Cancel 
                 </button>
                 <button 
                   type="submit" 
